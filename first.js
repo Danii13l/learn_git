@@ -1,3 +1,3 @@
 const first = 2;
 
-const second = 5;
+const second = 2;
